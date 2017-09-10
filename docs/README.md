@@ -4,7 +4,7 @@
 ### python 2.7
  <p> sudo pip install jupyter
  <p> sudo pip install matplotlib
- <p> sudo pip install sklearn\n
+ <p> sudo pip install sklearn
  <p> sudo pip install scipy
  <p> sudo pip install pandas
  <p> sudo pip install seaborn
