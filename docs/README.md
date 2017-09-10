@@ -1,7 +1,7 @@
 # Welcome to Machine Learning and Data Scence training
 
 ## Installation and python Package requirments 
-### python 2.7
+ <p> python 2.7+
  <p> sudo pip install jupyter
  <p> sudo pip install matplotlib
  <p> sudo pip install sklearn
