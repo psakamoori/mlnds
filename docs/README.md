@@ -1,4 +1,4 @@
-# Welcome to Machine Learning and Data Scence training
+# Welcome to Machine Learning and Data Science training
 
 ## Installation and python Package requirments 
  <p> python 2.7+
