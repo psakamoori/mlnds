@@ -2,12 +2,12 @@
 
 ## Installation and python Package requirments 
 ### python 2.7
-### sudo pip install jupyter
-### sudo pip install matplotlib
-### sudo pip install sklearn
-### sudo pip install scipy
-### sudo pip install pandas
-### sudo pip install seaborn
+ <p> sudo pip install jupyter
+ <p> sudo pip install matplotlib
+ <p> sudo pip install sklearn\n
+ <p> sudo pip install scipy
+ <p> sudo pip install pandas
+ <p> sudo pip install seaborn
 
 Note: Verified on Ubuntu 14.04, Anancodna not used for this project
 
