@@ -6,6 +6,8 @@
  <p> Tensorflow
  <p> Keras
 
+ <p> Note: Currently not using Ananconda package for this project
+
 ## Steps to Install Python 2.7 on Ubuntu 14.04
 
 <p>$sudo apt-get update
