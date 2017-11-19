@@ -1,4 +1,4 @@
-# Welcome to Machine Learning and Data Science training
+# Welcome to Machine Learning and Data Science 
 
 ## Installation and Package requirments 
  <p> Python, packages, git
